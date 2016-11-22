@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: darkblue;
+    text-shadow: 3px 3px 1px black;
+}
+
+h2 a img {
+    align-content: center;
+    width: 420px;
+    height: 185px;
+}
